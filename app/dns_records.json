@@ -1,0 +1,671 @@
+{
+    "errors": [],
+    "messages": [],
+    "result": [
+        {
+            "content": "180.219.32.114",
+            "created_on": "2022-06-07T07:10:44.257199Z",
+            "id": "3123657d154da0240c33430f8ea20e6e",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2022-07-21T08:49:51.268625Z",
+            "name": "spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "A",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "ghs.google.com",
+            "created_on": "2021-09-05T14:53:18.965607Z",
+            "id": "b124f6509103fc3cbcb79e1c295232fa",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.965607Z",
+            "name": "calendar.spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "CNAME",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "spotlight-platform.com",
+            "created_on": "2022-03-27T19:33:32.888635Z",
+            "id": "6b625448da72c09b421f54fbe59a0416",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2022-03-27T19:33:32.888635Z",
+            "name": "develop.spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "CNAME",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "ghs.google.com",
+            "created_on": "2021-09-05T14:53:18.968894Z",
+            "id": "8d9d7199ae2f812f320dd7f27cf45e18",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.968894Z",
+            "name": "docs.spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "CNAME",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "_domainconnect.ss.domaincontrol.com",
+            "created_on": "2021-09-05T14:53:19.017197Z",
+            "id": "bd9cb525953d3bcc02d42a0fb0c4601c",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:19.017197Z",
+            "name": "_domainconnect.spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "CNAME",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "mail-spotlight--platform-com.dkim1._domainkey.firebasemail.com",
+            "created_on": "2021-12-20T18:13:26.358203Z",
+            "id": "273c0650943e1bad76a4d98e2415da06",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-12-20T18:13:26.358203Z",
+            "name": "firebase1._domainkey.spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "CNAME",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "mail-spotlight--platform-com.dkim2._domainkey.firebasemail.com",
+            "created_on": "2021-12-20T18:13:39.000003Z",
+            "id": "020c5389f6abccddb376c9a65243fd31",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-12-20T18:13:39.000003Z",
+            "name": "firebase2._domainkey.spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "CNAME",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "ghs.google.com",
+            "created_on": "2021-09-05T14:53:18.934239Z",
+            "id": "b6431b666d1de0ba2f6ed66db321c179",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.934239Z",
+            "name": "mail.spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "CNAME",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "ghs.google.com",
+            "created_on": "2021-09-05T14:53:19.021134Z",
+            "id": "7da7f010c712ff202224efc99bded789",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:19.021134Z",
+            "name": "start.spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "CNAME",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "spotlight-platform.com",
+            "created_on": "2021-09-05T14:53:19.007053Z",
+            "id": "66c1dcecba1d11680b99411ac787a0b1",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T15:15:43.221606Z",
+            "name": "www.spotlight-platform.com",
+            "proxiable": true,
+            "proxied": true,
+            "ttl": 1,
+            "type": "CNAME",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "aspmx5.googlemail.com",
+            "created_on": "2021-09-05T14:53:18.962485Z",
+            "id": "9f8dfdb433dc833d9f55aa78c146ed4e",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.962485Z",
+            "name": "spotlight-platform.com",
+            "priority": 30,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "MX",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "aspmx4.googlemail.com",
+            "created_on": "2021-09-05T14:53:18.958699Z",
+            "id": "ee006dbe3c49c26da391a3f3eb8bea76",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.958699Z",
+            "name": "spotlight-platform.com",
+            "priority": 30,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "MX",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "aspmx3.googlemail.com",
+            "created_on": "2021-09-05T14:53:18.954593Z",
+            "id": "db83e3ba8dba6d6bbdff7a3319099e34",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.954593Z",
+            "name": "spotlight-platform.com",
+            "priority": 30,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "MX",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "aspmx2.googlemail.com",
+            "created_on": "2021-09-05T14:53:18.950889Z",
+            "id": "15bd2350cd143e73855dc16e28ab938e",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.950889Z",
+            "name": "spotlight-platform.com",
+            "priority": 30,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "MX",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "alt2.aspmx.l.google.com",
+            "created_on": "2021-09-05T14:53:18.947722Z",
+            "id": "f84b4475b1901de9db83623298f686cf",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.947722Z",
+            "name": "spotlight-platform.com",
+            "priority": 20,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "MX",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "alt1.aspmx.l.google.com",
+            "created_on": "2021-09-05T14:53:18.945118Z",
+            "id": "ed1fa2f2f59125f9b05801492a61b6db",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.945118Z",
+            "name": "spotlight-platform.com",
+            "priority": 20,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "MX",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "aspmx.l.google.com",
+            "created_on": "2021-09-05T14:53:18.941164Z",
+            "id": "8f9a7d49f1650d2c7550babaea33db84",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.941164Z",
+            "name": "spotlight-platform.com",
+            "priority": 10,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "MX",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "0\t5269\txmpp-server.2.1.google.com",
+            "created_on": "2021-09-05T14:53:19.014165Z",
+            "data": {
+                "name": "spotlight-platform.com",
+                "port": 5269,
+                "priority": 20,
+                "proto": "_tcp",
+                "service": "_jabber",
+                "target": "xmpp-server.2.1.google.com",
+                "weight": 0
+            },
+            "id": "99f429736afbec824295897673069cec",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:19.014165Z",
+            "name": "_jabber._tcp.spotlight-platform.com",
+            "priority": 20,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "SRV",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "0\t5269\txmpp-server.1.1.google.com",
+            "created_on": "2021-09-05T14:53:19.010579Z",
+            "data": {
+                "name": "spotlight-platform.com",
+                "port": 5269,
+                "priority": 20,
+                "proto": "_tcp",
+                "service": "_jabber",
+                "target": "xmpp-server.1.1.google.com",
+                "weight": 0
+            },
+            "id": "70d016bce6770fe00d53b87aba595137",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:19.010579Z",
+            "name": "_jabber._tcp.spotlight-platform.com",
+            "priority": 20,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "SRV",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "0\t5269\txmpp-server4.1.google.com",
+            "created_on": "2021-09-05T14:53:18.990521Z",
+            "data": {
+                "name": "spotlight-platform.com",
+                "port": 5269,
+                "priority": 20,
+                "proto": "_tcp",
+                "service": "_xmpp-server",
+                "target": "xmpp-server4.1.google.com",
+                "weight": 0
+            },
+            "id": "a3e550d6ce21af228cef44780ff76e50",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.990521Z",
+            "name": "_xmpp-server._tcp.spotlight-platform.com",
+            "priority": 20,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "SRV",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "0\t5269\txmpp-server3.1.google.com",
+            "created_on": "2021-09-05T14:53:18.987184Z",
+            "data": {
+                "name": "spotlight-platform.com",
+                "port": 5269,
+                "priority": 20,
+                "proto": "_tcp",
+                "service": "_xmpp-server",
+                "target": "xmpp-server3.1.google.com",
+                "weight": 0
+            },
+            "id": "a2c6378c93e17d268f14fa81c334bf40",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.987184Z",
+            "name": "_xmpp-server._tcp.spotlight-platform.com",
+            "priority": 20,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "SRV",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "0\t5269\txmpp-server2.1.google.com",
+            "created_on": "2021-09-05T14:53:18.980956Z",
+            "data": {
+                "name": "spotlight-platform.com",
+                "port": 5269,
+                "priority": 20,
+                "proto": "_tcp",
+                "service": "_xmpp-server",
+                "target": "xmpp-server2.1.google.com",
+                "weight": 0
+            },
+            "id": "ae3759348c44d7c28512daec5f36ed98",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.980956Z",
+            "name": "_xmpp-server._tcp.spotlight-platform.com",
+            "priority": 20,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "SRV",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "0\t5269\txmpp-server1.1.google.com",
+            "created_on": "2021-09-05T14:53:18.977362Z",
+            "data": {
+                "name": "spotlight-platform.com",
+                "port": 5269,
+                "priority": 20,
+                "proto": "_tcp",
+                "service": "_xmpp-server",
+                "target": "xmpp-server1.1.google.com",
+                "weight": 0
+            },
+            "id": "4a796b86416d314d1f15d2ca784ab781",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.977362Z",
+            "name": "_xmpp-server._tcp.spotlight-platform.com",
+            "priority": 20,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "SRV",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "0\t5269\txmpp-server.1.google.com",
+            "created_on": "2021-09-05T14:53:18.973262Z",
+            "data": {
+                "name": "spotlight-platform.com",
+                "port": 5269,
+                "priority": 5,
+                "proto": "_tcp",
+                "service": "_xmpp-server",
+                "target": "xmpp-server.1.google.com",
+                "weight": 0
+            },
+            "id": "bf1c100583620af7840ef47d8d3db3a8",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-05T14:53:18.973262Z",
+            "name": "_xmpp-server._tcp.spotlight-platform.com",
+            "priority": 5,
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "SRV",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "7n0jKL08mmUAY1ndarRDHgN32pYZA_LpeWDET2CFwBE",
+            "created_on": "2021-12-08T10:00:49.534047Z",
+            "id": "28ac5397143a297deb73c9cacefe2b8c",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-12-08T10:00:49.534047Z",
+            "name": "_acme-challenge.spotlight-platform.com",
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "TXT",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "QC3f2tf4uzNtkZPaWxNaqO5Cofz1YfwCWf1Fk3mvqjE",
+            "created_on": "2021-09-09T05:37:17.255088Z",
+            "id": "b52efc88fd76ee683b9acf75d01aeffe",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-09-09T05:37:17.255088Z",
+            "name": "_acme-challenge.spotlight-platform.com",
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "TXT",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "google-site-verification=W7gkI1p6oLkJRe-gQ9c1g3Y7YRkc03flQUOTPEGVv8o",
+            "created_on": "2022-02-19T18:52:49.314098Z",
+            "id": "6fdc8df319f689710e314ee87795d340",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2022-02-19T18:52:49.314098Z",
+            "name": "spotlight-platform.com",
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "TXT",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "firebase=spotlight-5320c",
+            "created_on": "2021-11-20T16:10:42.579259Z",
+            "id": "61e72f6ad7c82ececbf5b8869473fe31",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-11-20T16:10:42.579259Z",
+            "name": "spotlight-platform.com",
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "TXT",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        },
+        {
+            "content": "v=spf1 include:_spf.firebasemail.com ~all",
+            "created_on": "2021-11-20T16:10:21.423207Z",
+            "id": "005b7219d398c4b257ab8788feca1099",
+            "locked": false,
+            "meta": {
+                "auto_added": false,
+                "managed_by_apps": false,
+                "managed_by_argo_tunnel": false,
+                "source": "primary"
+            },
+            "modified_on": "2021-11-20T16:10:21.423207Z",
+            "name": "spotlight-platform.com",
+            "proxiable": false,
+            "proxied": false,
+            "ttl": 1,
+            "type": "TXT",
+            "zone_id": "7c0cc00b4f34e3d16a4658acedf1022c",
+            "zone_name": "spotlight-platform.com"
+        }
+    ],
+    "result_info": {
+        "count": 29,
+        "page": 1,
+        "per_page": 100,
+        "total_count": 29,
+        "total_pages": 1
+    },
+    "success": true
+}
